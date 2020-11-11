@@ -1,5 +1,5 @@
 # SparkMachineLearningPython
-
+The content of this project was taken from a course that explained Spark concepts.
 #Used DataFrames and Structured Streaming in Spark 3
 #Framed big data analysis problems as Spark problems
 #Used Amazon's Elastic MapReduce service to run your job on a cluster with Hadoop YARN
